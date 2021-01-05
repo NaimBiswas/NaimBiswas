@@ -7,8 +7,8 @@
 
 <h3 align="left">See My GitHub Stats:</h3>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NaimBiswas&show_icons=true)  
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NaimBiswas&theme=radical&show_icons=true)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/NaimBiswas/NaimBiswas/blob/main/cover1.png" alt="naimbiswa" /></a> </p>
@@ -55,6 +55,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaimBiswas)](https://github.com/anuraghazra/github-readme-stats)
 
-<h3 align="left">The End😘:  </h3>
+<h3 align="left">The End:  </h3>
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=NaimBiswas)  
  
