@@ -48,7 +48,7 @@
 
 <h3 align="left">Languages Thast's I used More: </h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaimBiswas)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaimBiswas)]
 
 <h3 align="left">The End:  </h3>
 
