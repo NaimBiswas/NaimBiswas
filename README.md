@@ -5,10 +5,6 @@
 
 ![Metrics](https://metrics.lecoq.io/NaimBiswas?template=classic&config.timezone=Asia%2FDhaka)
 
-<h3 align="left">See My GitHub Stats:</h3>
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NaimBiswas&theme=radical&show_icons=true)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/NaimBiswas/NaimBiswas/blob/main/cover1.png" alt="naimbiswa" /></a> </p>
