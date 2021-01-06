@@ -3,8 +3,7 @@
 
 <h3 align="left">Profile summary:</h3>
 
-![GitHub metrics](https://metrics.lecoq.io/NaimBiswas)
-  
+![Metrics](https://metrics.lecoq.io/NaimBiswas?template=classic&config.timezone=Asia%2FDhaka)
 
 <h3 align="left">See My GitHub Stats:</h3>
 
