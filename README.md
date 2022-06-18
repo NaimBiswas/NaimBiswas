@@ -7,7 +7,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/NaimBiswas/NaimBiswas/blob/main/cover1.png" alt="naimbiswa" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/NaimBiswas/NaimBiswas/blob/main/cover1.png" alt="naimbiswa" /></a> </p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naimbiswa&label=Profile%20views&color=0e75b6&style=flat" alt="naimbiswa" /> </p>
 <p align="left"> <a href="https://twitter.com/naimbiswas11" target="blank"><img src="https://img.shields.io/twitter/follow/naimbiswas11?logo=twitter&style=for-the-badge" alt="naimbiswas11" /></a> </p>
