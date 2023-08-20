@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Naim Biswas</h1>
-<h3 align="center">A Passionate Full Stack (JavaScript) Developer </h3>
+<h3 align="center">A Passionate Full Stack (JavaScript/Golang) Developer </h3>
 
 <h3 align="left">Profile summary:</h3>
 
