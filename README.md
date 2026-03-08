@@ -1,41 +1,100 @@
-<h1 align="center">Hi 👋, I'm Naim Biswas</h1>
-<h3 align="center">A Passionate Full Stack (JavaScript/Golang) Developer </h3>
+#  Hi, I'm Naim Biswas
 
-<h3 align="left">Profile summary:</h3>
+ **Senior Software Engineer | Backend & Frontend Architect | Systems Thinker**
 
-![Metrics](https://metrics.lecoq.io/NaimBiswas?template=classic&config.timezone=Asia%2FDhaka)
+I'm passionate about building **scalable, secure, and maintainable systems**. My work blends technical rigor with creative communication, enabling teams to adopt robust solutions that stand the test of time. Currently, I work remotely for **Pixelque Software Pvt. Ltd.**, based in Ahmedabad, India.
 
+---
 
+##  Expertise & Skills
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/NaimBiswas/NaimBiswas/blob/main/cover1.png" alt="naimbiswas" /></a> </p> -->
+- **Architectural Leadership**
+  - Designing scalable, multi-tenant systems with defense-in-depth security
+  - Driving cross-team adoption of reusable, maintainable patterns
+  - Balancing backward compatibility with forward-looking optimizations
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naimbiswa&label=Profile%20views&color=0e75b6&style=flat" alt="naimbiswa" /> </p>
-<p align="left"> <a href="https://twitter.com/naimbiswas11" target="blank"><img src="https://img.shields.io/twitter/follow/naimbiswas11?logo=twitter&style=for-the-badge" alt="naimbiswas11" /></a> </p>
+- **Backend & Frontend Engineering**
+  - Advanced proficiency in Node.js, Express.js, React.js, TypeScript, Go, and Gin
+  - Building resilient APIs with transactional safety and performance tuning
+  - Leading async/await refactoring initiatives for clarity and reliability
 
+- **Database Mastery**
+  - Expert in MongoDB aggregation, indexing, and optimization
+  - Designing deduplication and traceable backup strategies for data integrity
+  - Implementing timezone-aware queries for global-scale applications
 
+- **Cloud & DevOps Integration**
+  - AWS (S3, EC2, IAM, Parameter Store) for cloud-native solutions
+  - Containerization with Docker and orchestration with Kubernetes
 
+- **Quality, Security & Collaboration**
+  - Establishing robust error handling and future-proof coding standards
+  - Implementing OAuth2, JWT, and OWASP practices for secure applications
+  - Authoring RCA documentation and mentoring engineers on scalable workflows
+  - Using Sentry and Clarity for error tracking and monitoring
+  - Driving Agile workflows with Jira for project management
 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/naimbiswas11" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="naimbiswas11" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/naim-biswas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="naim-biswas" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/14409242" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="14409242" height="30" width="40" /></a>
-<a href="https://fb.com/naimbiswas.1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="naimbiswas.1" height="30" width="40" /></a>
-<a href="https://instagram.com/naimbiswas.1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="naimbiswas.1" height="30" width="40" /></a>
-<a href="https://dribbble.com/naim_biswas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="naim_biswas" height="30" width="40" /></a>
-<a href="https://www.behance.net/naimbiswas1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="naimbiswas1" height="30" width="40" /></a>
-</p>
+##  Tech Stack
 
-<h3 align="left">Hire Me on:</h3>
-<p align="left">
+### Languages & Frameworks
+- **JavaScript / TypeScript**
+- **Node.js / Express.js / NestJS**
+- **React.js / Angular**
+- **Go / Gin**
+- **GraphQL / gRPC**
+- **HTML5 / CSS3**
 
-<a href="https://www.upwork.com/freelancers/~016304c95d02a83db6" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/upwork.svg" alt="naim-biswas" height="30" width="40" /></a>
-<a href="https://www.fiverr.com/naim_biswas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/fiverr.svg" alt="naim-biswas" height="30" width="40" /></a>
-<a href="https://www.freelancer.com/u/Naimbiswas0" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/freelancer.svg" alt="Naim_Biswas" height="30" width="40"/></a>
-<a href="https://www.guru.com/freelancers/naim-biswas" target="blank"><img src="https://img.icons8.com/ios-glyphs/30/000000/guru.png" alt="Guru.com" title="Hire Me On Guru"/></a>
-</p>
+### Databases & Data Engineering
+- **MongoDB** (Aggregation, Indexing, Optimization)
+- **PostgreSQL / MySQL**
+- **Redis** (Caching & sessions)
+- **RabbitMQ** (Event-driven architecture)
 
-<h3 align="left">The End:  </h3>
+### Cloud & Infrastructure
+- **AWS (S3, EC2, IAM, Parameter Store)**
+- **Docker & Kubernetes**
+- **CI/CD pipelines** (GitHub Actions, Jenkins, GitLab CI)
 
- 
+### Testing & Quality
+- **Jest / Mocha / Chai** (Unit & integration testing)
+
+### Monitoring & Observability
+- **Grafana**
+- **Sentry / Clarity**
+
+### Collaboration & Project Management
+- **Git & GitHub**
+- **Agile / Scrum**
+- **Jira**
+
+---
+
+##  Recent Work Highlights
+
+- Refactored MongoDB pipelines for **group summaries** with reusable helpers  
+- Designed **deduplication and backup strategies** ensuring traceability  
+- Integrated **S3 storage** for seamless logo handling with backward compatibility  
+- Optimized **aggregation queries** for readability and maintainability  
+- Documented **root cause analyses (RCA)** with clear, audience-friendly communication  
+
+---
+
+##  Interests
+
+- Scalable API design & transactional safety  
+- Creative, audience-friendly documentation  
+- Cross-platform adaptation & reusable design patterns  
+- Data integrity, deduplication, and backup strategies  
+
+---
+
+##  Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/naim-biswas)  
+- 🌐 [Portfolio/Website](https://portfolio-naimbiswas.vercel.app)  
+
+---
+
+> *“Clarity, robustness, and team enablement are at the heart of my engineering philosophy.”*
