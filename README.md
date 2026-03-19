@@ -93,7 +93,7 @@ I'm passionate about building **scalable, secure, and maintainable systems**. My
 ##  Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/naim-biswas)  
-- 🌐 [Portfolio/Website](https://portfolio-naimbiswas.vercel.app)  
+- 🌐 [Portfolio/Website](https://naimbiswas.vercel.app/)  
 
 ---
 
