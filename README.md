@@ -1,6 +1,6 @@
 ### Backend Engineer | Node.js, Go, TypeScript | RAG & AI Integration
 
-Building scalable backend systems with **Node.js, Go, TypeScript, and cloud-native stacks**. 5+ years of experience delivering production systems â€” from REST APIs and microservices to AI-powered document retrieval with RAG.
+Building scalable backend systems with **Node.js, Go, TypeScript, and cloud-native stacks**. 5+ years of experience delivering production systems, from REST APIs and microservices to AI-powered document retrieval with RAG.
 
 Currently at **PixelQue Software**, working remotely. Previously at 9i Digitals.
 
@@ -8,8 +8,8 @@ Currently at **PixelQue Software**, working remotely. Previously at 9i Digitals.
 
 ### What I'm building
 
-- **Task Scheduler** â€” Golang + Next.js monorepo with PostgreSQL, Redis, and RRULE-based recurring event generation at scale.
-- **RAG Document Q&A** â€” OpenAI embeddings + vector search for intelligent document retrieval (Go/Node).
+- **Task Scheduler** Golang + Next.js monorepo with PostgreSQL, Redis, and RRULE-based recurring event generation at scale.
+- **RAG Document Q&A** OpenAI embeddings + vector search for intelligent document retrieval (Go/Node).
 
 ---
 
